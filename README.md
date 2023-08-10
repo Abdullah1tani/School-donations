@@ -4,6 +4,14 @@ School Donations is an academic project for the course [SOEN 363: Data Systems f
 
 ## Introduction
 The goal of this project is to test the efficiency of SQL (PostgreSQL) and NoSQL (BigQuery). We created two databases, a PostgreSQL database, and a BigQuery database, and used the same dataset for both of them.
+Tables needed for this project:
+- Schools
+- Teachers
+- Donors
+- Projects
+- Donations
+- Resources
+
 
 ## What is Big Query?
 Google BigQuery has a good balance between availability and consistency. It is an enterprise data warehouse that:
