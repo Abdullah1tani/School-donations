@@ -1,3 +1,7 @@
 # School Donations
 
-School Donations is an academic project for the course [SOEN 363: Data Systems for Software Engineers](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-70-department-of-computer-science-and-software-engineering/section-71-70-10-computer-science-and-software-engineering-courses.html#3708)
+School Donations is an academic project for the course [SOEN 363: Data Systems for Software Engineers](https://www.concordia.ca/academics/undergraduate/calendar/current/section-71-gina-cody-school-of-engineering-and-computer-science/section-71-70-department-of-computer-science-and-software-engineering/section-71-70-10-computer-science-and-software-engineering-courses.html#3708). Worked in a team of 4 to create a PostgreSQL and a Google Big Query. 
+
+## Introduction
+The goal of this project is to test the efficiency of SQL and NoSQL. 
+We chose PostgreSQL and Google Big Query.
