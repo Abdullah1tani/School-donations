@@ -10,5 +10,6 @@ Google BigQuery has a good balance between availability and consistency. It is a
 - Helps manage and analyze data with built-in features
 - Uses SQL queries
 - Separates data from storage to maximize flexibility
+
 You can find more about BigQuery [here](https://cloud.google.com/bigquery).
 
