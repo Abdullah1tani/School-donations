@@ -28,9 +28,12 @@ We have created an ER diagram to represent the attributes and connections betwee
 
 In order to get the data that was used to test out these queries:
  1  -  Visit [Kaggle School Donations dataset](https://www.kaggle.com/datasets/perkymaster/school-donations).
+ 
  2  -  Scroll down until you reach the `Donations.csv` table
+ 
  3  -  Choose which table you would like to download its data
 <img width="676" alt="Donations csv" src="https://github.com/Abdullah1tani/School-donations/assets/98557354/507bdf45-c54b-4d3b-aae4-435328238c43">
+
  4  -  Click on the download icon to download the data for the specified table
 <img width="676" alt="Donations csv (download icon)" src="https://github.com/Abdullah1tani/School-donations/assets/98557354/10facf18-07fb-4c41-bd7c-c12ea2f7798a">
 
