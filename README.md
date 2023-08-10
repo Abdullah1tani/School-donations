@@ -27,6 +27,7 @@ We have created an ER diagram to represent the attributes and connections betwee
 ![ER diagram](https://github.com/Abdullah1tani/School-donations/assets/98557354/6154fe71-85ea-40b3-9921-4affd3d5fdf3)
 
 In order to get the data that was used to test out these queries:
+
  1  -  Visit [Kaggle School Donations dataset](https://www.kaggle.com/datasets/perkymaster/school-donations).
  
  2  -  Scroll down until you reach the `Donations.csv` table
