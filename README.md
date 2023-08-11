@@ -13,7 +13,6 @@ Tables needed for this project:
 - Donations
 - Resources
 
-
 ## What is Big Query?
 Google BigQuery has a good balance between availability and consistency. It is an enterprise data warehouse that:
 - Helps manage and analyze data with built-in features
@@ -21,6 +20,14 @@ Google BigQuery has a good balance between availability and consistency. It is a
 - Separates data from storage to maximize flexibility
 
 You can find more about BigQuery [here](https://cloud.google.com/bigquery).
+
+## Tools:
+In order to create a PostgreSQL on your local machine you need the following tools:
+* [PostgreSQL](https://www.postgresql.org/)
+* [DataGrip IDE](https://www.jetbrains.com/datagrip/)
+* [School Donations Kaggle Data Set](##Data)
+<br><br>
+
 
 ## Data
 We have created an ER diagram to represent the attributes and connections between tables.
