@@ -25,7 +25,7 @@ You can find more about BigQuery [here](https://cloud.google.com/bigquery).
 In order to create a PostgreSQL on your local machine you need the following tools:
 * [PostgreSQL](https://www.postgresql.org/)
 * [DataGrip IDE](https://www.jetbrains.com/datagrip/)
-* [School Donations Kaggle Data Set](#Data)
+* [Kaggle Data Set](#Data)
 <br><br>
 
 
@@ -45,4 +45,10 @@ In order to get the data that was used to test out these queries:
  4  -  Click on the download icon to download the data for the specified table
 <img width="676" alt="Donations csv (download icon)" src="https://github.com/Abdullah1tani/School-donations/assets/98557354/10facf18-07fb-4c41-bd7c-c12ea2f7798a">
 
+## Other projects
+Thank you for reading
 
+Please check out my other projects:
+- [Cat Animation](https://github.com/Abdullah1tani/cat-animation)
+- [Card Animation](https://github.com/Abdullah1tani/card-animation)
+- [Weather Tracker](https://github.com/Abdullah1tani/WeatherProject)
