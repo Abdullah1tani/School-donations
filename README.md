@@ -25,7 +25,7 @@ You can find more about BigQuery [here](https://cloud.google.com/bigquery).
 In order to create a PostgreSQL on your local machine you need the following tools:
 * [PostgreSQL](https://www.postgresql.org/)
 * [DataGrip IDE](https://www.jetbrains.com/datagrip/)
-* [School Donations Kaggle Data Set](##Data)
+* [School Donations Kaggle Data Set](#Data)
 <br><br>
 
 
